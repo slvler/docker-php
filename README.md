@@ -1,4 +1,4 @@
-# qwerty-php-7.4-docker
+# php-7.4
 
 
 
